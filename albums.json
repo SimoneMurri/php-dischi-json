@@ -1,0 +1,38 @@
+[
+    {
+        "artist": "Jovanotti",
+        "title": "A te",
+        "releaseYear": "2008",
+        "cover" : "https://i.scdn.co/image/ab67616d0000b273767778d633a8d1f58fe5c1e2"
+    },
+    {
+        "artist": "Vasco Rossi",
+        "title": "Senza Parole",
+        "releaseYear": "1999",
+        "cover" : "https://i.scdn.co/image/ab67616d0000b273106b4bf3bad7a4bc6b494b30"
+    },   
+    {
+        "artist": "Alessandra Amoroso",
+        "title": "Stupendo fino a qui",
+        "releaseYear": "2016",
+        "cover" : "https://m.media-amazon.com/images/I/41nGBLNfsdL._UXNaN_FMjpg_QL85_.jpg"
+    },
+    {
+        "artist": "Carl Brave",
+        "title": "Solo guai",
+        "releaseYear": "2017",
+        "cover" : "https://images.genius.com/1a9809e0cd643c188a950c3421cb86e0.595x595x1.png"
+    },
+    {
+        "artist": "Mara Sattei",
+        "title": "Duemilaminuti",
+        "releaseYear": "2023",
+        "cover" : "https://m.media-amazon.com/images/I/61RSq2lBNXL._UXNaN_FMjpg_QL85_.jpg"
+    },
+    {
+        "artist": "Tha Supreme",
+        "title": "m%n",
+        "releaseYear": "2021",
+        "cover" : "https://images.rockol.it/9Ly62019gyZ4b-ej1il98fQEafY=/1200x1200/smart/rockol-img/img/foto/upload/m-n-cover-b.jpg"
+    }
+]
