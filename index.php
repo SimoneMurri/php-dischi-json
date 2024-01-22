@@ -9,8 +9,17 @@
     <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
 </head>
 <body>
+    <header class="container"></header>
     <div id="app">
-    </div>
+    <main>
+        <div v-for="(element, index) in albumList" :key="index" class="album">
+        <img :src="element.cover" alt="..." class="img-cover">
+            <h4>{{ element.title }}</h4>
+            <p>{{ element.artist }} </p>
+            <p><strong>{{ element.releaseYear }}</strong></p>
+        </div>
+        </div>
+    </main>
     <script src="./js/script.js"></script>
 </body>
 </html>

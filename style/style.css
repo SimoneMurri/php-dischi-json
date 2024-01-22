@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+main {
+    font-family: Arial, sans-serif;
+    background-color: rgb(29, 45, 60);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 0rem 10rem;
+}
+
+#app {
+    text-align: center;
+}
+
+.container {
+    height: 100px;
+    background-color: rgb(6, 19, 31);
+}
+
+.album {
+    background-color: rgb(17, 32, 48);
+    border-radius: 5px;
+    padding: 30px;
+    margin: 3rem;
+}
+
+p{
+    font-size: 12px;
+    margin-bottom: .50rem;
+    color: white;
+}
+
+.img-cover {
+    width: 200px;
+    margin-bottom: .50rem;
+    color: white;
+}
+
+h4{
+    margin-bottom: .50rem;
+    color: white;
+}
+
+.img-spotify {
+    color: red;
+    width: 200px;
+}
+
